@@ -163,9 +163,3 @@ Rule-based system design
 Template rendering using Jinja2
 
 Scalable architecture planning
-
-👨‍💻 Author
-
-Venkat V
-Information Science & Engineering
-GitHub: https://github.com/Sri-Venkat
